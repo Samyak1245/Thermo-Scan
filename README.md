@@ -18,9 +18,6 @@ A working prototype built for Smart India Hackathon, addressing the problem stat
 5. **Publishes** the classified hot zones as a GeoJSON GIS layer and serves it through a Flask API.
 6. **Visualizes** the result on an interactive, dark-themed map console (Leaflet.js) with filtering by class, a live legend, facility overlay, and a detail drawer per hot zone — usable on desktop, tablet and mobile.
 
-This directly satisfies both deliverables in the PS:
-- **(i)** Classification/segregation of industrial fires from forest fires and other natural fires — done by the clustering + Random Forest pipeline.
-- **(ii)** GIS-based storage and visualization as a map overlay — done by the GeoJSON export + Leaflet console.
 
 ---
 
